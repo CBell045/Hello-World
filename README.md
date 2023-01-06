@@ -2,10 +2,9 @@
 
 This program displays the classic "Hello World" to the terminal in three languages: English, Armenian, and Russian. 
 
-
 To spice up the classic "Hello World", I decided to write it in the three different languages that I speak. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZmMDRY-iZuc)
 
 # Development Environment
 
